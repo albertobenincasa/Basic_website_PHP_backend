@@ -1,0 +1,81 @@
+.no-checked {
+	border: 1px solid;
+	background-color: #ffffff;
+	padding: 25px;
+}
+
+.no-checked.grey {
+	background-color: #808080;
+}
+
+.potential {
+	background-color: #ff0000;
+}
+
+.user-checked {
+	border: 1px solid;
+	background-color: #008000;
+	padding: 25px;
+}
+
+.no-user-checked {
+	border: 1px solid;
+	background-color: #000000;
+	padding: 25px;
+}
+
+.mytable {
+	margin-top: 50px;
+	margin-left: 150px;
+}
+
+.mydivform {
+	margin-left: 230px;
+	margin-right: auto;
+	text-align: center;
+}
+
+#error {
+	margin: auto;
+	color: #ff0000;
+	text-align: center;
+}
+
+#success {
+	margin: auto;
+	color: #008000;
+	text-align: center;
+}
+
+nav {
+	margin-top: auto; 
+	margin-bottom: auto;
+}
+a {
+	width:80px;
+	margin-bottom:30px;
+}
+
+.footer {
+	bottom:0;
+	position:absolute;
+}
+
+.titleheader {
+	margin-right: auto;
+	margin-left: auto;
+	color: #ffffff;
+}
+
+.mycol {
+	padding-top: 70px;
+	background-color: #cdcdcd;
+}
+
+.mycontainer {
+	 height: -webkit-fill-available;
+}
+
+.myrow {
+	height: inherit;
+}
